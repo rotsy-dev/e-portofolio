@@ -7,7 +7,9 @@ export const contactInfo: ContactInfo = {
   linkedin: 'https://www.linkedin.com/in/rotsy-maminintsoa-raharinosy',
 };
 
-export const avatarUrl = '/src/assets/images/avatar_rotsy_1781686453707.png';
+import avatarRotsy from './assets/images/avatar_rotsy_1781686453707.png';
+
+export const avatarUrl = avatarRotsy;
 
 export const experiences: Experience[] = [
   {
