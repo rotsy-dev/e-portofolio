@@ -1,0 +1,6 @@
+{
+  "name": "Rotsy Raharinosy Portfolio",
+  "description": "Portfolio épuré, réactif et fluide présentant les compétences, expériences et projets de Rotsy Raharinosy, Développeur FullStack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
